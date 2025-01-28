@@ -23,27 +23,19 @@
     "bluetooth"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/Driversnote-Dev/react-native-kontaktio",
+  "homepage": "https://github.com/anthonyhumphreys/react-native-kontaktio",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Driversnote-Dev/react-native-kontaktio.git"
+    "url": "git+https://github.com/anthonyhumphreys/react-native-kontaktio.git"
   },
   "bugs": {
-    "url": "https://github.com/Driversnote-Dev/react-native-kontaktio/issues"
+    "url": "https://github.com/anthonyhumphreys/react-native-kontaktio/issues"
   },
   "author": "André Kovac",
   "maintainers": [
     {
-      "email": "ja@driversnote.com",
-      "name": "Jonas Åradsson"
-    },
-    {
-      "email": "mf@driversnote.com",
-      "name": "Martin Frisk Poulsen"
-    },
-    {
-      "email": "me@andrekovac.com",
-      "name": "André Kovac"
+      "email": "anthony.humphreys@lancaster.ac.uk",
+      "name": "Anthony Humphreys"
     }
   ],
   "scripts": {
